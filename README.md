@@ -1,6 +1,13 @@
 # solidity-gym-machine-rental
 Homework in Solidity for the Blockchain Technologies and Applications course of Budapest University of Technology and Economics
 
+## Table of contents
+
+* [Problem statement](#problem-statement)
+* [Example scenario](#example-scenario)
+* [Contract interface](#contract-interface)
+* [Contract skeleton](#contract-skeleton)
+
 ## Problem statement
 Implement a smart contract for gym machine rental.
 * The contract should have exactly one owner (the gym's management).
@@ -56,3 +63,6 @@ contract GymMachineRental {
 
 }
 ```
+
+## Copyright
+Copyright (c) 2018 Mark Szabo, Balazs Bodo. All rights reserved.
