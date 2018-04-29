@@ -8,6 +8,7 @@ Homework in Solidity for the Blockchain Technologies and Applications course of 
 * [Example scenario](#example-scenario)
 * [Contract interface](#contract-interface)
 * [Contract skeleton](#contract-skeleton)
+* [Remix test logs](#remix-test-logs)
 
 ## Problem statement
 
@@ -58,7 +59,7 @@ contract GymMachineRental {
     }
 
     uint pricePerSlot;
-    address owner
+    address owner;
     uint contractCreated;
     Reservation[] reservations;
 
